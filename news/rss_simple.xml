@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="tis-620" ?> 
+<rss version="2.0">
+<channel>
+	<title> บริการข่าวสาร </title> 
+	<description> รายละเอียดของบริการข่าวสาร </description> 
+  	<link>http://206.26.56.226/news/</link> 
+	<webMaster>Adisak Chanmin</webMaster> 
+	<item>
+		<title> หัวข้อข่าวที่ 1</title> 
+		<description>รายละเอียดของข่าวที่ 1</description> 
+  		<link>http://206.26.56.226/news/view.php?id_view=1</link> 
+	</item>
+	<item>
+		<title> หัวข้อข่าวที่ 2</title> 
+		<description>รายละเอียดของข่าวที่ 2</description> 
+  		<link>http://206.26.56.226/news/view.php?id_view=2</link> 
+	</item>
+</channel>
+</rss>

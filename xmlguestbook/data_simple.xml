@@ -1,0 +1,15 @@
+<?xml version="1.0"  encoding="tis-620"?>
+<guestbook>
+	<item>
+		<name>Adisak</name>
+		<email>nung421@hotmail.com</email>
+		<date>2006-05-24 15:27:44</date>
+		<message>Test Message </message>
+	</item>
+	<item>
+		<name>Chaiyan</name>
+		<email>yan421@hotmail.com</email>
+		<date>2006-05-23 16:25:43</date>
+		<message>Chaiyan Test Message </message>
+	</item>
+</guestbook>
